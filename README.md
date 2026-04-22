@@ -15,6 +15,7 @@ Standard Python servers (`http.server`) often crash with `BrokenPipeError` or `C
 - ✅ **Zero Setup**: Just drop the script in your movie folder and run.
 
 ## Usage
+(Note: direct streaming only works with mp4 file type other file types will be downloaded depending on your browser. you can also stream mp3 files)
 1. Open **Pydroid 3** on your Android device.
 2. Move `main.py` into your movies directory.
 3. Run the script.
